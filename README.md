@@ -1,4 +1,4 @@
-<img width="1062" height="724" alt="Screenshot 2026-01-03 232222" src="https://github.com/user-attachments/assets/ff6076fb-b6a5-4200-8c34-e5a12c7a4c3d" /># Wasset.Tour– Full Stack Web Application 
+# Wasset.Tour– Full Stack Web Application 
 
 **Revolutionizing Syrian Tourism Through Seamless B2B Service Integration**
 
