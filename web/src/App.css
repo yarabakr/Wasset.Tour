@@ -1,0 +1,9 @@
+/* Add smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Additional global styles can be added here */
+body {
+  font-family: 'Inter', sans-serif; /* A modern, clean font */
+}
